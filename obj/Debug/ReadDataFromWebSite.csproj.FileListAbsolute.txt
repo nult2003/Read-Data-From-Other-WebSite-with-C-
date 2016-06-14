@@ -1,0 +1,6 @@
+D:\Other\Practice\LayDataTuSiteKhac\HtmlAgilityPack_VozF17\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Other\Practice\LayDataTuSiteKhac\HtmlAgilityPack_VozF17\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Other\Practice\LayDataTuSiteKhac\HtmlAgilityPack_VozF17\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Other\Practice\LayDataTuSiteKhac\HtmlAgilityPack_VozF17\ConsoleApplication1\bin\Debug\HtmlAgilityPack.dll
+D:\Other\Practice\LayDataTuSiteKhac\HtmlAgilityPack_VozF17\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Other\Practice\LayDataTuSiteKhac\HtmlAgilityPack_VozF17\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
